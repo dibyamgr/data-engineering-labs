@@ -35,18 +35,17 @@ By the end of this bootcamp, I'll be able to:
 
 ## Learning path
 
-| # | Module | Tools & Tech | Status |
-|---|--------|-------------|--------|
-| 01 | **Intro to Data Engineering — SQL & Python** | Python, Pandas, SQL, PostgreSQL | 🔄 In progress |
-| 02 | **Data Warehousing with Hadoop & Hive** | HDFS, MapReduce, Hive, HiveQL | 🔄 In progress
- |
-| 03 | **Data Processing with Apache Spark** | PySpark, Spark SQL, MLlib | ⏳ Upcoming |
-| 04 | **Spark Transformations & ETL Functions** | PySpark, Delta Lake | ⏳ Upcoming |
-| 05 | **AWS Data Services** | Lambda, Glue, Redshift, S3 | ⏳ Upcoming |
-| 06 | **Snowflake & MongoDB** | Snowflake, MongoDB Atlas, NoSQL | ⏳ Upcoming |
-| 07 | **Azure Data Factory, Synapse & Databricks** | ADF, Synapse Analytics, Databricks | ⏳ Upcoming |
-| 08 | **Database Design & Kafka** | PostgreSQL, Apache Kafka, event streaming | ⏳ Upcoming |
-| 09 | **Capstone Project — End-to-End AWS Pipeline** | Full AWS stack | ⏳ Upcoming |
+| # | Module | Tools & Tech | Status          |
+|---|--------|-------------|-----------------|
+| 01 | **Intro to Data Engineering — SQL & Python** | Python, Pandas, SQL, PostgreSQL | 🔄 In progress  |
+| 02 | **Data Warehousing with Hadoop & Hive** | HDFS, MapReduce, Hive, HiveQL | 🔄 In progress  |
+| 03 | **Data Processing with Apache Spark** | PySpark, Spark SQL, MLlib | ⏳ Upcoming      |
+| 04 | **Spark Transformations & ETL Functions** | PySpark, Delta Lake | ⏳ Upcoming      |
+| 05 | **AWS Data Services** | Lambda, Glue, Redshift, S3 | ⏳ Upcoming      |
+| 06 | **Snowflake & MongoDB** | Snowflake, MongoDB Atlas, NoSQL | ⏳ Upcoming      |
+| 07 | **Azure Data Factory, Synapse & Databricks** | ADF, Synapse Analytics, Databricks | ⏳ Upcoming      |
+| 08 | **Database Design & Kafka** | PostgreSQL, Apache Kafka, event streaming | ⏳ Upcoming      |
+| 09 | **Capstone Project — End-to-End AWS Pipeline** | Full AWS stack | ⏳ Upcoming      |
 
 ---
 
@@ -183,9 +182,9 @@ data-engineering-bootcamp/
 ## How to use this repo
 
 ```bash
-git clone https://github.com/your-username/data-engineering-bootcamp.git
-cd data-engineering-bootcamp
-pip install -r requirements.txt
+git clone https://github.com/dibyamgr/data-engineering-labs/
+cd ...
+pip ...
 ```
 
 Each module folder has its own `README.md` explaining what was covered, key commands, gotchas, and how to run the code. Start there.
@@ -195,7 +194,7 @@ Each module folder has its own `README.md` explaining what was covered, key comm
 ## Progress tracker
 
 ```
-[██░░░░░░░░░░░░░░░░░░] Module 1 of 9 — just getting started
+[██░░░░░░░░░░░░░░░░░░] Module 2 of 9 — just getting started
 ```
 
 ---
