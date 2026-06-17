@@ -39,7 +39,7 @@ By the end of this bootcamp, I'll be able to:
 |---|--------|-------------|-----------------|
 | 01 | **Intro to Data Engineering — SQL & Python** | Python, Pandas, SQL, PostgreSQL | 🔄 In progress  |
 | 02 | **Data Warehousing with Hadoop & Hive** | HDFS, MapReduce, Hive, HiveQL | 🔄 In progress  |
-| 03 | **Data Processing with Apache Spark** | PySpark, Spark SQL, MLlib | ⏳ Upcoming      |
+| 03 | **Data Processing with Apache Spark** | PySpark, Spark SQL, MLlib | 🔄 In progress      |
 | 04 | **Spark Transformations & ETL Functions** | PySpark, Delta Lake | ⏳ Upcoming      |
 | 05 | **AWS Data Services** | Lambda, Glue, Redshift, S3 | ⏳ Upcoming      |
 | 06 | **Snowflake & MongoDB** | Snowflake, MongoDB Atlas, NoSQL | ⏳ Upcoming      |
