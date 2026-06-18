@@ -6,7 +6,7 @@ if __name__:
     data = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     rdd = spark.sparkContext.parallelize(data)
 
-    # print(rdd.count())
+    print(rdd.count())
 
     # reading from a text file and converting into rdd
     rdd1 = spark.sparkContext.textFile("file:///home/takeo/test.txt")
