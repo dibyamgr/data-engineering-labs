@@ -1,0 +1,6 @@
+{"name":{"firstname":"James","middlename":"","lastname":"Smith"},"languages":["Java","Scala","C++"],"state":"OH","gender":"M"}
+{"name":{"firstname":"Anna","middlename":"Rose","lastname":""},"languages":["Spark","Java","C++"],"state":"NY","gender":"F"}
+{"name":{"firstname":"Julia","middlename":"","lastname":"Williams"},"languages":["CSharp","VB"],"state":"OH","gender":"F"}
+{"name":{"firstname":"Maria","middlename":"Anne","lastname":"Jones"},"languages":["CSharp","VB"],"state":"NY","gender":"M"}
+{"name":{"firstname":"Jen","middlename":"Mary","lastname":"Brown"},"languages":["CSharp","VB"],"state":"NY","gender":"M"}
+{"name":{"firstname":"Mike","middlename":"Mary","lastname":"Williams"},"languages":["Python","VB"],"state":"OH","gender":"M"}

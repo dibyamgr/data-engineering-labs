@@ -4,10 +4,15 @@ from pyspark.sql.types import *
 if __name__ == "__main__":
     print("PySpark File Formats")
 
+    # One spark application = one spark session
+    # getOrCreate will get the spark session if already exists otherwise creates a new one
+    # this method will support only local so we enableHiveSupport
     spark = SparkSession.builder \
         .master("local[1]") \
         .appName("bootcamp.com") \
+        .enableHiveSupport() \
         .getOrCreate()
+
 
     # Spark does not know the first row is a header so column becomes _c0, _c1,... and all values are read as string by default
     df = spark.read.csv("file:///home/takeo/pycharmprojects/zipcodes.csv")
